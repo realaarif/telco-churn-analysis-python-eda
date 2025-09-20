@@ -54,12 +54,11 @@ Through advanced data visualization and statistical analysis, raw customer data 
 
 ## 💡 Skills Demonstrated  
 
-- Advanced Data Cleaning & Preprocessing  
-- Statistical Analysis & Hypothesis Testing  
+- Statistical Analysis  
 - Data Visualization & Storytelling  
 - Customer Segmentation Analysis  
 - Business Intelligence & Insight Generation  
-- Predictive Analytics (foundation for churn models)  
+- Predictive Analytics
 
 ---
 
